@@ -1,0 +1,20 @@
+.header {
+  font-size: x-large;
+  text-align: center;
+}
+
+.post {
+  text-align: right;
+  color: red;
+}
+
+.pre {
+  float: center;
+  text-align: center;
+  text-color: green;
+}
+
+.about-me {
+  background: yellow;
+}
+
