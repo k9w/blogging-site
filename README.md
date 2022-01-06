@@ -1,4 +1,4 @@
-# _Instructions for Version Control, Backup Utilities, and More_
+# _Our first blogging site_
 
 #### By _**Kevin Williams**_ and _**Andy Plymate**_
 
@@ -11,14 +11,12 @@
 
 ## Description
 
-_A site to voice our anger and sadness at the world. :'(_
+_A site to voice our experiences with coding in the world. :'(_
 
 ## Setup/Installation Requirements
 
 * _Clone the repo._
 * _Open the home page in browser._
-
-
 
 
 ## Known Bugs
@@ -28,7 +26,7 @@ _A site to voice our anger and sadness at the world. :'(_
 
 ## License
 
-ISC
+[ISC](https://opensource.org/licenses/ISC)
 
 _For any problems, please file an issue on Github. Pull Requests welcome._
 
