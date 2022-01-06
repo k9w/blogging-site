@@ -28,7 +28,7 @@ _A site to voice our experiences with coding in the world. You can find our work
 
 ## License
 
-[ISC](https://opensource.org/licenses/ISC)
+[ISC](https://choosealicense.com/licenses/isc)
 
 _For any problems, please file an issue on Github. Pull Requests welcome._
 
