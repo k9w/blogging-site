@@ -12,8 +12,8 @@
 ## Description
 
 _A site to voice our experiences with coding in the world. You can find our work at:_
-* (https://github.com/k9w)
-* (https://github.com/Plymatea)
+* https://github.com/k9w
+* https://github.com/Plymatea
 
 ## Setup/Installation Requirements
 
