@@ -11,14 +11,21 @@
 
 ## Description
 
-_A site to voice our experiences with coding in the world. You can find our work at:_
+_This is the second HTML & CSS page we made as students at
+[Epicodus](https://epicodus.com). We worked [the assignment for this
+page](https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/practice-divs-and-spans)
+from [our curriculum](https://learnhowtoprogram.com) on Wednesday
+January 5th 2022. The index.html, README, LICENSE, and Github Pages
+deployment were added later that week. You can find more of our work
+at:_
+
 * https://github.com/k9w
 * https://github.com/Plymatea
 
 ## Setup/Installation Requirements
 
-* _Clone the repo._
-* _Open the home page in browser._
+* _Visit the live site at: https://k9w.github.io/blogging-site_
+* _Or clone the repo and open the home page in a browser._
 
 
 ## Known Bugs
